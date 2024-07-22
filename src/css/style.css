@@ -98,24 +98,24 @@ main .cartao-pokemon .tipo{
 }
 
 .grama{
- background-image: url(../imagens/energy-types.png);
+ background-image: url(../imagens/grass.png);
  background-position: -25px -50px;
  background-color: #78c850;
 }
 
 .veneno{
- background-image: url(../imagens/energy-types.png);
+ background-image: url(../imagens/poison.png);
  background-position: 75px 0px;
 }
 
 .fogo{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/fire.png);
     background-position: 0px 0px;
  background-color: #f05030;
 }
 
 .agua{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/water.png);
     background-position: -75px -50px;
  background-color: #6890f0;
 }
@@ -127,73 +127,73 @@ main .cartao-pokemon .tipo{
 }
 
 .eletrico{
-    background-image: url(../imagens/energy-types.png);
-    background-position: -25px -25px;
+    background-image: url(../imagens/electric.png);
+    background-position: -25.5  px -25px;
  background-color: #f8d030;
 }
 
 .psiquico{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/psychic.png);
     background-position: -76px -25px;
  background-color: #f85888;
 }
 
 .gelo{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/ice.png);
     background-position: 0px 0px;
  background-color: #98d8d8;
 }
 
 .dragao{
-    background-image: url(../imagens/energy-types.png);
-    background-position: 0px -25px;
+    background-image: url(../imagens/dragon.png);
+    background-position: -0.5px -25px;
  background-color: #7038f8;
 }
 
 .normal{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/normal.png);
     background-position: 75px 0px;
  background-color: #a8a878;
 }
 
 .lutador{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/fighting.png);
     background-position: -50px -25px;
  background-color: #903028;
 }
 
 .voador{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/flying.png);
     background-position: 0px 0px;
  background-color: #a890f0;
 }
 
 .terra{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/ground.png);
     background-position: 0px 0px;
  background-color: #e0c068;
 }
 
 .pedra{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/rock.png);
     background-position: 0px 0px;
  background-color: #b8a038;
 }
 
 .fantasma{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/ghost.png);
     background-position: 0px 0px;
  background-color: #705898;
 }
 
 .aco{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/steel.png);
     background-position: -76px 0px;
  background-color: #b8b8d0;
 }
 
 .fada{
-    background-image: url(../imagens/energy-types.png);
+    background-image: url(../imagens/fairy.png);
     background-position: -51px 0px;
  background-color: #ee99ac;
 }
