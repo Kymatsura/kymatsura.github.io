@@ -1,0 +1,5510 @@
+[
+  {
+    "pokemon_card": {
+      "name": "Bulbasaur",
+      "number": "#001",
+      "image": {
+        "src": "./imagens/poke_1.gif",
+        "alt": "bulbasaur"
+      },
+      "types": ["grama", "veneno"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#002",
+      "image": {
+        "src": "./imagens/poke_2.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#003",
+      "image": {
+        "src": "./imagens/poke_3.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#004",
+      "image": {
+        "src": "./imagens/poke_4.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#005",
+      "image": {
+        "src": "./imagens/poke_5.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#006",
+      "image": {
+        "src": "./imagens/poke_6.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#007",
+      "image": {
+        "src": "./imagens/poke_7.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#008",
+      "image": {
+        "src": "./imagens/poke_8.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#009",
+      "image": {
+        "src": "./imagens/poke_9.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#010",
+      "image": {
+        "src": "./imagens/poke_10.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#011",
+      "image": {
+        "src": "./imagens/poke_11.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#012",
+      "image": {
+        "src": "./imagens/poke_12.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#013",
+      "image": {
+        "src": "./imagens/poke_13.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#014",
+      "image": {
+        "src": "./imagens/poke_14.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#015",
+      "image": {
+        "src": "./imagens/poke_15.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#016",
+      "image": {
+        "src": "./imagens/poke_16.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#017",
+      "image": {
+        "src": "./imagens/poke_17.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#018",
+      "image": {
+        "src": "./imagens/poke_18.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#019",
+      "image": {
+        "src": "./imagens/poke_19.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#020",
+      "image": {
+        "src": "./imagens/poke_20.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#021",
+      "image": {
+        "src": "./imagens/poke_21.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#22",
+      "image": {
+        "src": "./imagens/poke_22.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#023",
+      "image": {
+        "src": "./imagens/poke_23.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#024",
+      "image": {
+        "src": "./imagens/poke_24.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#025",
+      "image": {
+        "src": "./imagens/poke_25.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#026",
+      "image": {
+        "src": "./imagens/poke_26.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#027",
+      "image": {
+        "src": "./imagens/poke_27.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#028",
+      "image": {
+        "src": "./imagens/poke_28.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#029",
+      "image": {
+        "src": "./imagens/poke_29.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#030",
+      "image": {
+        "src": "./imagens/poke_0.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#031",
+      "image": {
+        "src": "./imagens/poke_1.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#032",
+      "image": {
+        "src": "./imagens/poke_2.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#033",
+      "image": {
+        "src": "./imagens/poke_3.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#034",
+      "image": {
+        "src": "./imagens/poke_4.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#035",
+      "image": {
+        "src": "./imagens/poke_5.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#036",
+      "image": {
+        "src": "./imagens/poke_6.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#037",
+      "image": {
+        "src": "./imagens/poke_7.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#038",
+      "image": {
+        "src": "./imagens/poke_8.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#039",
+      "image": {
+        "src": "./imagens/poke_9.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#040",
+      "image": {
+        "src": "./imagens/poke_40.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#041",
+      "image": {
+        "src": "./imagens/poke_41.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#042",
+      "image": {
+        "src": "./imagens/poke_42.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#043",
+      "image": {
+        "src": "./imagens/poke_43.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#044",
+      "image": {
+        "src": "./imagens/poke_44.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#045",
+      "image": {
+        "src": "./imagens/poke_.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#046",
+      "image": {
+        "src": "./imagens/poke_45.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#047",
+      "image": {
+        "src": "./imagens/poke_46.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#048",
+      "image": {
+        "src": "./imagens/poke_47.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#048",
+      "image": {
+        "src": "./imagens/poke_48.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#049",
+      "image": {
+        "src": "./imagens/poke_49.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#050",
+      "image": {
+        "src": "./imagens/poke_50.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#051",
+      "image": {
+        "src": "./imagens/poke_51.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#052",
+      "image": {
+        "src": "./imagens/poke_52.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#053",
+      "image": {
+        "src": "./imagens/poke_53.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#054",
+      "image": {
+        "src": "./imagens/poke_54.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#055",
+      "image": {
+        "src": "./imagens/poke_55.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#056",
+      "image": {
+        "src": "./imagens/poke_56.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#057",
+      "image": {
+        "src": "./imagens/poke_57.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#058",
+      "image": {
+        "src": "./imagens/poke_58.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#059",
+      "image": {
+        "src": "./imagens/poke_59.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#060",
+      "image": {
+        "src": "./imagens/poke_60.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#061",
+      "image": {
+        "src": "./imagens/poke_61.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#062",
+      "image": {
+        "src": "./imagens/poke_62.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#063",
+      "image": {
+        "src": "./imagens/poke_63.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#064",
+      "image": {
+        "src": "./imagens/poke_64.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#065",
+      "image": {
+        "src": "./imagens/poke_65.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#066",
+      "image": {
+        "src": "./imagens/poke_66.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#067",
+      "image": {
+        "src": "./imagens/poke_67.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#068",
+      "image": {
+        "src": "./imagens/poke_68.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#069",
+      "image": {
+        "src": "./imagens/poke_69.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#070",
+      "image": {
+        "src": "./imagens/poke_70.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#071",
+      "image": {
+        "src": "./imagens/poke_71.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#072",
+      "image": {
+        "src": "./imagens/poke_72.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#073",
+      "image": {
+        "src": "./imagens/poke_73.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#074",
+      "image": {
+        "src": "./imagens/poke_74.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#075",
+      "image": {
+        "src": "./imagens/poke_75.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#076",
+      "image": {
+        "src": "./imagens/poke_76.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#077",
+      "image": {
+        "src": "./imagens/poke_77.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#078",
+      "image": {
+        "src": "./imagens/poke_78.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#079",
+      "image": {
+        "src": "./imagens/poke_79.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#080",
+      "image": {
+        "src": "./imagens/poke_80.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#081",
+      "image": {
+        "src": "./imagens/poke_81.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#082",
+      "image": {
+        "src": "./imagens/poke_82.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#083",
+      "image": {
+        "src": "./imagens/poke_83.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#084",
+      "image": {
+        "src": "./imagens/poke_84.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#085",
+      "image": {
+        "src": "./imagens/poke_85.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#086",
+      "image": {
+        "src": "./imagens/poke_86.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#087",
+      "image": {
+        "src": "./imagens/poke_87.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#088",
+      "image": {
+        "src": "./imagens/poke_88.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#089",
+      "image": {
+        "src": "./imagens/poke_89.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#090",
+      "image": {
+        "src": "./imagens/poke_90.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#091",
+      "image": {
+        "src": "./imagens/poke_91.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#092",
+      "image": {
+        "src": "./imagens/poke_92.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#093",
+      "image": {
+        "src": "./imagens/poke_93.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#094",
+      "image": {
+        "src": "./imagens/poke_94.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#095",
+      "image": {
+        "src": "./imagens/poke_95.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#096",
+      "image": {
+        "src": "./imagens/poke_96.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#097",
+      "image": {
+        "src": "./imagens/poke_97.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#098",
+      "image": {
+        "src": "./imagens/poke_98.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#099",
+      "image": {
+        "src": "./imagens/poke_99.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#100",
+      "image": {
+        "src": "./imagens/poke_100.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#101",
+      "image": {
+        "src": "./imagens/poke_101.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#102",
+      "image": {
+        "src": "./imagens/poke_102.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#103",
+      "image": {
+        "src": "./imagens/poke_103.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#104",
+      "image": {
+        "src": "./imagens/poke_104.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#105",
+      "image": {
+        "src": "./imagens/poke_105.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#106",
+      "image": {
+        "src": "./imagens/poke_106.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#107",
+      "image": {
+        "src": "./imagens/poke_107.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#108",
+      "image": {
+        "src": "./imagens/poke_108.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#109",
+      "image": {
+        "src": "./imagens/poke_109.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#110",
+      "image": {
+        "src": "./imagens/poke_110.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#111",
+      "image": {
+        "src": "./imagens/poke_111.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#112",
+      "image": {
+        "src": "./imagens/poke_112.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#113",
+      "image": {
+        "src": "./imagens/poke_113.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#114",
+      "image": {
+        "src": "./imagens/poke_114.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#115",
+      "image": {
+        "src": "./imagens/poke_115.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#116",
+      "image": {
+        "src": "./imagens/poke_116.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#117",
+      "image": {
+        "src": "./imagens/poke_117.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#118",
+      "image": {
+        "src": "./imagens/poke_118.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#119",
+      "image": {
+        "src": "./imagens/poke_119.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#120",
+      "image": {
+        "src": "./imagens/poke_120.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#121",
+      "image": {
+        "src": "./imagens/poke_121.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#122",
+      "image": {
+        "src": "./imagens/poke_122.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#123",
+      "image": {
+        "src": "./imagens/poke_123.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#124",
+      "image": {
+        "src": "./imagens/poke_124.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#125",
+      "image": {
+        "src": "./imagens/poke_125.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#126",
+      "image": {
+        "src": "./imagens/poke_126.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#127",
+      "image": {
+        "src": "./imagens/poke_127.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#128",
+      "image": {
+        "src": "./imagens/poke_128.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#129",
+      "image": {
+        "src": "./imagens/poke_129.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#130",
+      "image": {
+        "src": "./imagens/poke_130.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#131",
+      "image": {
+        "src": "./imagens/poke_131.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#132",
+      "image": {
+        "src": "./imagens/poke_132.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#133",
+      "image": {
+        "src": "./imagens/poke_133.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#134",
+      "image": {
+        "src": "./imagens/poke_134.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#135",
+      "image": {
+        "src": "./imagens/poke_135.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#136",
+      "image": {
+        "src": "./imagens/poke_136.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#137",
+      "image": {
+        "src": "./imagens/poke_137.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#138",
+      "image": {
+        "src": "./imagens/poke_138.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#139",
+      "image": {
+        "src": "./imagens/poke_139.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#140",
+      "image": {
+        "src": "./imagens/poke_140.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#141",
+      "image": {
+        "src": "./imagens/poke_141.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#142",
+      "image": {
+        "src": "./imagens/poke_142.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#143",
+      "image": {
+        "src": "./imagens/poke_143.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#144",
+      "image": {
+        "src": "./imagens/poke_144.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#145",
+      "image": {
+        "src": "./imagens/poke_145.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#146",
+      "image": {
+        "src": "./imagens/poke_146.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#147",
+      "image": {
+        "src": "./imagens/poke_147.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#148",
+      "image": {
+        "src": "./imagens/poke_148.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#149",
+      "image": {
+        "src": "./imagens/poke_149.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#150",
+      "image": {
+        "src": "./imagens/poke_150.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#151",
+      "image": {
+        "src": "./imagens/poke_151.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#152",
+      "image": {
+        "src": "./imagens/poke_152.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#153",
+      "image": {
+        "src": "./imagens/poke_153.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#154",
+      "image": {
+        "src": "./imagens/poke_154.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#155",
+      "image": {
+        "src": "./imagens/poke_155.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#156",
+      "image": {
+        "src": "./imagens/poke_156.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#157",
+      "image": {
+        "src": "./imagens/poke_157.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#158",
+      "image": {
+        "src": "./imagens/poke_158.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#159",
+      "image": {
+        "src": "./imagens/poke_159.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#160",
+      "image": {
+        "src": "./imagens/poke_160.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#161",
+      "image": {
+        "src": "./imagens/poke_161.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#162",
+      "image": {
+        "src": "./imagens/poke_162.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#163",
+      "image": {
+        "src": "./imagens/poke_163.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#164",
+      "image": {
+        "src": "./imagens/poke_164.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#165",
+      "image": {
+        "src": "./imagens/poke_165.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#166",
+      "image": {
+        "src": "./imagens/poke_166.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#167",
+      "image": {
+        "src": "./imagens/poke_167.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#168",
+      "image": {
+        "src": "./imagens/poke_168.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#169",
+      "image": {
+        "src": "./imagens/poke_169.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#170",
+      "image": {
+        "src": "./imagens/poke_170.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#171",
+      "image": {
+        "src": "./imagens/poke_171.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#172",
+      "image": {
+        "src": "./imagens/poke_172.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#173",
+      "image": {
+        "src": "./imagens/poke_173.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#174",
+      "image": {
+        "src": "./imagens/poke_174.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#175",
+      "image": {
+        "src": "./imagens/poke_175.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#176",
+      "image": {
+        "src": "./imagens/poke_176.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#177",
+      "image": {
+        "src": "./imagens/poke_177.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#178",
+      "image": {
+        "src": "./imagens/poke_178.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#179",
+      "image": {
+        "src": "./imagens/poke_179.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#180",
+      "image": {
+        "src": "./imagens/poke_180.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#181",
+      "image": {
+        "src": "./imagens/poke_181.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#182",
+      "image": {
+        "src": "./imagens/poke_182.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#183",
+      "image": {
+        "src": "./imagens/poke_183.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#184",
+      "image": {
+        "src": "./imagens/poke_184.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#185",
+      "image": {
+        "src": "./imagens/poke_185.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#186",
+      "image": {
+        "src": "./imagens/poke_186.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#187",
+      "image": {
+        "src": "./imagens/poke_187.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#188",
+      "image": {
+        "src": "./imagens/poke_188.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#189",
+      "image": {
+        "src": "./imagens/poke_189.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#190",
+      "image": {
+        "src": "./imagens/poke_190.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#191",
+      "image": {
+        "src": "./imagens/poke_191.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#192",
+      "image": {
+        "src": "./imagens/poke_192.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#193",
+      "image": {
+        "src": "./imagens/poke_193.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#194",
+      "image": {
+        "src": "./imagens/poke_194.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#195",
+      "image": {
+        "src": "./imagens/poke_195.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#196",
+      "image": {
+        "src": "./imagens/poke_196.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#197",
+      "image": {
+        "src": "./imagens/poke_197.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#198",
+      "image": {
+        "src": "./imagens/poke_198.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#199",
+      "image": {
+        "src": "./imagens/poke_199.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#200",
+      "image": {
+        "src": "./imagens/poke_200.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#201",
+      "image": {
+        "src": "./imagens/poke_201.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#202",
+      "image": {
+        "src": "./imagens/poke_202.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#203",
+      "image": {
+        "src": "./imagens/poke_203.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#204",
+      "image": {
+        "src": "./imagens/poke_204.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#205",
+      "image": {
+        "src": "./imagens/poke_205.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#206",
+      "image": {
+        "src": "./imagens/poke_206.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#207",
+      "image": {
+        "src": "./imagens/poke_207.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#208",
+      "image": {
+        "src": "./imagens/poke_208.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#209",
+      "image": {
+        "src": "./imagens/poke_209.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#210",
+      "image": {
+        "src": "./imagens/poke_210.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#211",
+      "image": {
+        "src": "./imagens/poke_211.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#212",
+      "image": {
+        "src": "./imagens/poke_212.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#213",
+      "image": {
+        "src": "./imagens/poke_213.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#214",
+      "image": {
+        "src": "./imagens/poke_214.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#215",
+      "image": {
+        "src": "./imagens/poke_215.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#216",
+      "image": {
+        "src": "./imagens/poke_216.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#217",
+      "image": {
+        "src": "./imagens/poke_217.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#218",
+      "image": {
+        "src": "./imagens/poke_218.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#219",
+      "image": {
+        "src": "./imagens/poke_219.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#220",
+      "image": {
+        "src": "./imagens/poke_220.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#221",
+      "image": {
+        "src": "./imagens/poke_221.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#222",
+      "image": {
+        "src": "./imagens/poke_222.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#223",
+      "image": {
+        "src": "./imagens/poke_223.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#224",
+      "image": {
+        "src": "./imagens/poke_224.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#225",
+      "image": {
+        "src": "./imagens/poke_225.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#226",
+      "image": {
+        "src": "./imagens/poke_226.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#227",
+      "image": {
+        "src": "./imagens/poke_227.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#228",
+      "image": {
+        "src": "./imagens/poke_228.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#229",
+      "image": {
+        "src": "./imagens/poke_229.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#230",
+      "image": {
+        "src": "./imagens/poke_230.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#231",
+      "image": {
+        "src": "./imagens/poke_231.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#232",
+      "image": {
+        "src": "./imagens/poke_232.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#233",
+      "image": {
+        "src": "./imagens/poke_233.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#234",
+      "image": {
+        "src": "./imagens/poke_234.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#235",
+      "image": {
+        "src": "./imagens/poke_235.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#236",
+      "image": {
+        "src": "./imagens/poke_236.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#237",
+      "image": {
+        "src": "./imagens/poke_237.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#238",
+      "image": {
+        "src": "./imagens/poke_238.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#239",
+      "image": {
+        "src": "./imagens/poke_239.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#240",
+      "image": {
+        "src": "./imagens/poke_240.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#241",
+      "image": {
+        "src": "./imagens/poke_241.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#242",
+      "image": {
+        "src": "./imagens/poke_242.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#243",
+      "image": {
+        "src": "./imagens/poke_243.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#244",
+      "image": {
+        "src": "./imagens/poke_244.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#245",
+      "image": {
+        "src": "./imagens/poke_245.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#246",
+      "image": {
+        "src": "./imagens/poke_246.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#247",
+      "image": {
+        "src": "./imagens/poke_247.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#248",
+      "image": {
+        "src": "./imagens/poke_248.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#249",
+      "image": {
+        "src": "./imagens/poke_249.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#250",
+      "image": {
+        "src": "./imagens/poke_250.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#251",
+      "image": {
+        "src": "./imagens/poke_251.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#252",
+      "image": {
+        "src": "./imagens/poke_252.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#253",
+      "image": {
+        "src": "./imagens/poke_253.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#254",
+      "image": {
+        "src": "./imagens/poke_254.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#255",
+      "image": {
+        "src": "./imagens/poke_255.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#256",
+      "image": {
+        "src": "./imagens/poke_256.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#257",
+      "image": {
+        "src": "./imagens/poke_257.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#258",
+      "image": {
+        "src": "./imagens/poke_258.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#259",
+      "image": {
+        "src": "./imagens/poke_259.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#260",
+      "image": {
+        "src": "./imagens/poke_260.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#261",
+      "image": {
+        "src": "./imagens/poke_261.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#262",
+      "image": {
+        "src": "./imagens/poke_262.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#263",
+      "image": {
+        "src": "./imagens/poke_263.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#264",
+      "image": {
+        "src": "./imagens/poke_264.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#265",
+      "image": {
+        "src": "./imagens/poke_265.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#266",
+      "image": {
+        "src": "./imagens/poke_266.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#267",
+      "image": {
+        "src": "./imagens/poke_267.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#268",
+      "image": {
+        "src": "./imagens/poke_268.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#269",
+      "image": {
+        "src": "./imagens/poke_269.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#270",
+      "image": {
+        "src": "./imagens/poke_270.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#271",
+      "image": {
+        "src": "./imagens/poke_271.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#272",
+      "image": {
+        "src": "./imagens/poke_272.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#273",
+      "image": {
+        "src": "./imagens/poke_273.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#274",
+      "image": {
+        "src": "./imagens/poke_274.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#275",
+      "image": {
+        "src": "./imagens/poke_275.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#276",
+      "image": {
+        "src": "./imagens/poke_276.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#277",
+      "image": {
+        "src": "./imagens/poke_277.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#278",
+      "image": {
+        "src": "./imagens/poke_278.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#279",
+      "image": {
+        "src": "./imagens/poke_279.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#280",
+      "image": {
+        "src": "./imagens/poke_280.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#281",
+      "image": {
+        "src": "./imagens/poke_281.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#282",
+      "image": {
+        "src": "./imagens/poke_282.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#283",
+      "image": {
+        "src": "./imagens/poke_283.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#284",
+      "image": {
+        "src": "./imagens/poke_284.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#285",
+      "image": {
+        "src": "./imagens/poke_285.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#286",
+      "image": {
+        "src": "./imagens/poke_286.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#287",
+      "image": {
+        "src": "./imagens/poke_287.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#288",
+      "image": {
+        "src": "./imagens/poke_288.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#289",
+      "image": {
+        "src": "./imagens/poke_289.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#290",
+      "image": {
+        "src": "./imagens/poke_290.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#291",
+      "image": {
+        "src": "./imagens/poke_291.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#292",
+      "image": {
+        "src": "./imagens/poke_292.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#293",
+      "image": {
+        "src": "./imagens/poke_293.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#294",
+      "image": {
+        "src": "./imagens/poke_294.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#295",
+      "image": {
+        "src": "./imagens/poke_295.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#296",
+      "image": {
+        "src": "./imagens/poke_296.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#297",
+      "image": {
+        "src": "./imagens/poke_297.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#298",
+      "image": {
+        "src": "./imagens/poke_298.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#299",
+      "image": {
+        "src": "./imagens/poke_299.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#300",
+      "image": {
+        "src": "./imagens/poke_300.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#301",
+      "image": {
+        "src": "./imagens/poke_301.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#302",
+      "image": {
+        "src": "./imagens/poke_302.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#303",
+      "image": {
+        "src": "./imagens/poke_303.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#304",
+      "image": {
+        "src": "./imagens/poke_304.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#305",
+      "image": {
+        "src": "./imagens/poke_305.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#306",
+      "image": {
+        "src": "./imagens/poke_306.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#307",
+      "image": {
+        "src": "./imagens/poke_307.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#308",
+      "image": {
+        "src": "./imagens/poke_308.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#309",
+      "image": {
+        "src": "./imagens/poke_309.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#310",
+      "image": {
+        "src": "./imagens/poke_310.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#311",
+      "image": {
+        "src": "./imagens/poke_311.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#312",
+      "image": {
+        "src": "./imagens/poke_312.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#313",
+      "image": {
+        "src": "./imagens/poke_313.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#314",
+      "image": {
+        "src": "./imagens/poke_314.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#315",
+      "image": {
+        "src": "./imagens/poke_315.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#316",
+      "image": {
+        "src": "./imagens/poke_316.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#317",
+      "image": {
+        "src": "./imagens/poke_317.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#318",
+      "image": {
+        "src": "./imagens/poke_318.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#319",
+      "image": {
+        "src": "./imagens/poke_319.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#320",
+      "image": {
+        "src": "./imagens/poke_320.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#321",
+      "image": {
+        "src": "./imagens/poke_321.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#322",
+      "image": {
+        "src": "./imagens/poke_322.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#323",
+      "image": {
+        "src": "./imagens/poke_323.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#324",
+      "image": {
+        "src": "./imagens/poke_324.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#325",
+      "image": {
+        "src": "./imagens/poke_325.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#326",
+      "image": {
+        "src": "./imagens/poke_326.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#327",
+      "image": {
+        "src": "./imagens/poke_327.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#328",
+      "image": {
+        "src": "./imagens/poke_328.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#329",
+      "image": {
+        "src": "./imagens/poke_329.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#330",
+      "image": {
+        "src": "./imagens/poke_330.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#331",
+      "image": {
+        "src": "./imagens/poke_331.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#332",
+      "image": {
+        "src": "./imagens/poke_332.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#333",
+      "image": {
+        "src": "./imagens/poke_333.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#334",
+      "image": {
+        "src": "./imagens/poke_334.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#335",
+      "image": {
+        "src": "./imagens/poke_335.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#336",
+      "image": {
+        "src": "./imagens/poke_336.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#337",
+      "image": {
+        "src": "./imagens/poke_337.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#338",
+      "image": {
+        "src": "./imagens/poke_338.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#339",
+      "image": {
+        "src": "./imagens/poke_339.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#340",
+      "image": {
+        "src": "./imagens/poke_340.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#341",
+      "image": {
+        "src": "./imagens/poke_341.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#342",
+      "image": {
+        "src": "./imagens/poke_342.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#343",
+      "image": {
+        "src": "./imagens/poke_343.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#344",
+      "image": {
+        "src": "./imagens/poke_344.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#345",
+      "image": {
+        "src": "./imagens/poke_345.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#346",
+      "image": {
+        "src": "./imagens/poke_346.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#347",
+      "image": {
+        "src": "./imagens/poke_347.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#348",
+      "image": {
+        "src": "./imagens/poke_348.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#349",
+      "image": {
+        "src": "./imagens/poke_349.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#350",
+      "image": {
+        "src": "./imagens/poke_350.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#351",
+      "image": {
+        "src": "./imagens/poke_351.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#352",
+      "image": {
+        "src": "./imagens/poke_352.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#353",
+      "image": {
+        "src": "./imagens/poke_353.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#354",
+      "image": {
+        "src": "./imagens/poke_354.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#355",
+      "image": {
+        "src": "./imagens/poke_355.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#356",
+      "image": {
+        "src": "./imagens/poke_356.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#357",
+      "image": {
+        "src": "./imagens/poke_357.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#358",
+      "image": {
+        "src": "./imagens/poke_358.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#359",
+      "image": {
+        "src": "./imagens/poke_359.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#360",
+      "image": {
+        "src": "./imagens/poke_360.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#361",
+      "image": {
+        "src": "./imagens/poke_361.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#362",
+      "image": {
+        "src": "./imagens/poke_362.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#363",
+      "image": {
+        "src": "./imagens/poke_363.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#364",
+      "image": {
+        "src": "./imagens/poke_364.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#365",
+      "image": {
+        "src": "./imagens/poke_365.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#366",
+      "image": {
+        "src": "./imagens/poke_366.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#367",
+      "image": {
+        "src": "./imagens/poke_367.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#368",
+      "image": {
+        "src": "./imagens/poke_368.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#369",
+      "image": {
+        "src": "./imagens/poke_369.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#370",
+      "image": {
+        "src": "./imagens/poke_370.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#371",
+      "image": {
+        "src": "./imagens/poke_371.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#372",
+      "image": {
+        "src": "./imagens/poke_372.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#373",
+      "image": {
+        "src": "./imagens/poke_373.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#374",
+      "image": {
+        "src": "./imagens/poke_374.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#375",
+      "image": {
+        "src": "./imagens/poke_375.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#376",
+      "image": {
+        "src": "./imagens/poke_376.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#377",
+      "image": {
+        "src": "./imagens/poke_377.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#378",
+      "image": {
+        "src": "./imagens/poke_378.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#379",
+      "image": {
+        "src": "./imagens/poke_379.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#380",
+      "image": {
+        "src": "./imagens/poke_380.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#381",
+      "image": {
+        "src": "./imagens/poke_381.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#382",
+      "image": {
+        "src": "./imagens/poke_382.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#383",
+      "image": {
+        "src": "./imagens/poke_383.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#384",
+      "image": {
+        "src": "./imagens/poke_384.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#385",
+      "image": {
+        "src": "./imagens/poke_385.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#386",
+      "image": {
+        "src": "./imagens/poke_386.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#387",
+      "image": {
+        "src": "./imagens/poke_387.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#388",
+      "image": {
+        "src": "./imagens/poke_388.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#389",
+      "image": {
+        "src": "./imagens/poke_389.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#390",
+      "image": {
+        "src": "./imagens/poke_390.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#391",
+      "image": {
+        "src": "./imagens/poke_391.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#392",
+      "image": {
+        "src": "./imagens/poke_392.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#393",
+      "image": {
+        "src": "./imagens/poke_393.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#394",
+      "image": {
+        "src": "./imagens/poke_394.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#395",
+      "image": {
+        "src": "./imagens/poke_395.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#396",
+      "image": {
+        "src": "./imagens/poke_396.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#397",
+      "image": {
+        "src": "./imagens/poke_397.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#398",
+      "image": {
+        "src": "./imagens/poke_398.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#399",
+      "image": {
+        "src": "./imagens/poke_399.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#400",
+      "image": {
+        "src": "./imagens/poke_400.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#401",
+      "image": {
+        "src": "./imagens/poke_401.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#402",
+      "image": {
+        "src": "./imagens/poke_402.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#403",
+      "image": {
+        "src": "./imagens/poke_403.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#404",
+      "image": {
+        "src": "./imagens/poke_404.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#405",
+      "image": {
+        "src": "./imagens/poke_405.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#406",
+      "image": {
+        "src": "./imagens/poke_406.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#407",
+      "image": {
+        "src": "./imagens/poke_407.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#408",
+      "image": {
+        "src": "./imagens/poke_408.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#409",
+      "image": {
+        "src": "./imagens/poke_409.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#410",
+      "image": {
+        "src": "./imagens/poke_410.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#411",
+      "image": {
+        "src": "./imagens/poke_411.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#412",
+      "image": {
+        "src": "./imagens/poke_412.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#413",
+      "image": {
+        "src": "./imagens/poke_413.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#414",
+      "image": {
+        "src": "./imagens/poke_414.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#415",
+      "image": {
+        "src": "./imagens/poke_415.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#416",
+      "image": {
+        "src": "./imagens/poke_416.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#417",
+      "image": {
+        "src": "./imagens/poke_417.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#418",
+      "image": {
+        "src": "./imagens/poke_418.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#419",
+      "image": {
+        "src": "./imagens/poke_419.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#420",
+      "image": {
+        "src": "./imagens/poke_420.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#421",
+      "image": {
+        "src": "./imagens/poke_421.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#422",
+      "image": {
+        "src": "./imagens/poke_422.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#423",
+      "image": {
+        "src": "./imagens/poke_423.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#424",
+      "image": {
+        "src": "./imagens/poke_424.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#425",
+      "image": {
+        "src": "./imagens/poke_425.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#426",
+      "image": {
+        "src": "./imagens/poke_426.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#427",
+      "image": {
+        "src": "./imagens/poke_427.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#428",
+      "image": {
+        "src": "./imagens/poke_428.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#429",
+      "image": {
+        "src": "./imagens/poke_429.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#430",
+      "image": {
+        "src": "./imagens/poke_430.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#431",
+      "image": {
+        "src": "./imagens/poke_431.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#432",
+      "image": {
+        "src": "./imagens/poke_432.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#433",
+      "image": {
+        "src": "./imagens/poke_433.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#434",
+      "image": {
+        "src": "./imagens/poke_434.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#435",
+      "image": {
+        "src": "./imagens/poke_435.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#436",
+      "image": {
+        "src": "./imagens/poke_436.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#437",
+      "image": {
+        "src": "./imagens/poke_437.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#438",
+      "image": {
+        "src": "./imagens/poke_438.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#439",
+      "image": {
+        "src": "./imagens/poke_439.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#440",
+      "image": {
+        "src": "./imagens/poke_440.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#441",
+      "image": {
+        "src": "./imagens/poke_441.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#442",
+      "image": {
+        "src": "./imagens/poke_442.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#443",
+      "image": {
+        "src": "./imagens/poke_443.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#444",
+      "image": {
+        "src": "./imagens/poke_444.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#445",
+      "image": {
+        "src": "./imagens/poke_445.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#446",
+      "image": {
+        "src": "./imagens/poke_446.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#447",
+      "image": {
+        "src": "./imagens/poke_447.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#448",
+      "image": {
+        "src": "./imagens/poke_448.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#449",
+      "image": {
+        "src": "./imagens/poke_449.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#450",
+      "image": {
+        "src": "./imagens/poke_450.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#451",
+      "image": {
+        "src": "./imagens/poke_451.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#452",
+      "image": {
+        "src": "./imagens/poke_452.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#453",
+      "image": {
+        "src": "./imagens/poke_453.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#454",
+      "image": {
+        "src": "./imagens/poke_454.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#455",
+      "image": {
+        "src": "./imagens/poke_455.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#456",
+      "image": {
+        "src": "./imagens/poke_456.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#457",
+      "image": {
+        "src": "./imagens/poke_457.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  },
+  {
+    "pokemon_card": {
+      "name": "Ivysaur",
+      "number": "#458",
+      "image": {
+        "src": "./imagens/poke_458.gif",
+        "alt": "ivysaur"
+      },
+      "types": ["grama"],
+      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
+    }
+  }
+]
