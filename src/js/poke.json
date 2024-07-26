@@ -25,11 +25,11 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Venosaur",
       "number": "#003",
       "image": {
         "src": "./imagens/poke_3.gif",
-        "alt": "ivysaur"
+        "alt": "Venosaur"
       },
       "types": ["grama"],
       "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
@@ -37,7 +37,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Charmander",
       "number": "#004",
       "image": {
         "src": "./imagens/poke_4.gif",
@@ -49,7 +49,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Charmeleon",
       "number": "#005",
       "image": {
         "src": "./imagens/poke_5.gif",
@@ -61,7 +61,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Charizad",
       "number": "#006",
       "image": {
         "src": "./imagens/poke_6.gif",
@@ -73,7 +73,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Squirtle",
       "number": "#007",
       "image": {
         "src": "./imagens/poke_7.gif",
@@ -85,7 +85,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Wartortle",
       "number": "#008",
       "image": {
         "src": "./imagens/poke_8.gif",
@@ -97,7 +97,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Blastoise",
       "number": "#009",
       "image": {
         "src": "./imagens/poke_9.gif",
@@ -109,7 +109,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Caterpie",
       "number": "#010",
       "image": {
         "src": "./imagens/poke_10.gif",
@@ -121,7 +121,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Metapod",
       "number": "#011",
       "image": {
         "src": "./imagens/poke_11.gif",
@@ -133,7 +133,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Butterfree",
       "number": "#012",
       "image": {
         "src": "./imagens/poke_12.gif",
@@ -145,7 +145,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Weedle",
       "number": "#013",
       "image": {
         "src": "./imagens/poke_13.gif",
@@ -157,7 +157,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kakuna",
       "number": "#014",
       "image": {
         "src": "./imagens/poke_14.gif",
@@ -169,7 +169,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Beedrill",
       "number": "#015",
       "image": {
         "src": "./imagens/poke_15.gif",
@@ -181,7 +181,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pidgey",
       "number": "#016",
       "image": {
         "src": "./imagens/poke_16.gif",
@@ -193,7 +193,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pidgeotto",
       "number": "#017",
       "image": {
         "src": "./imagens/poke_17.gif",
@@ -205,7 +205,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pidgeot",
       "number": "#018",
       "image": {
         "src": "./imagens/poke_18.gif",
@@ -217,7 +217,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Rattata",
       "number": "#019",
       "image": {
         "src": "./imagens/poke_19.gif",
@@ -229,7 +229,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Raticate",
       "number": "#020",
       "image": {
         "src": "./imagens/poke_20.gif",
@@ -241,7 +241,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Spearow",
       "number": "#021",
       "image": {
         "src": "./imagens/poke_21.gif",
@@ -253,7 +253,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Fearow",
       "number": "#22",
       "image": {
         "src": "./imagens/poke_22.gif",
@@ -265,7 +265,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ekans",
       "number": "#023",
       "image": {
         "src": "./imagens/poke_23.gif",
@@ -277,7 +277,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Arbok",
       "number": "#024",
       "image": {
         "src": "./imagens/poke_24.gif",
@@ -289,7 +289,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pikachu",
       "number": "#025",
       "image": {
         "src": "./imagens/poke_25.gif",
@@ -301,7 +301,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Raichu",
       "number": "#026",
       "image": {
         "src": "./imagens/poke_26.gif",
@@ -313,7 +313,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sandshrew",
       "number": "#027",
       "image": {
         "src": "./imagens/poke_27.gif",
@@ -325,7 +325,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sandslash",
       "number": "#028",
       "image": {
         "src": "./imagens/poke_28.gif",
@@ -337,7 +337,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidoran♀",
       "number": "#029",
       "image": {
         "src": "./imagens/poke_29.gif",
@@ -349,7 +349,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidorina",
       "number": "#030",
       "image": {
         "src": "./imagens/poke_0.gif",
@@ -361,7 +361,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidoqueen",
       "number": "#031",
       "image": {
         "src": "./imagens/poke_1.gif",
@@ -373,7 +373,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidoran♂",
       "number": "#032",
       "image": {
         "src": "./imagens/poke_2.gif",
@@ -385,7 +385,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidorino",
       "number": "#033",
       "image": {
         "src": "./imagens/poke_3.gif",
@@ -397,7 +397,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Nidoking",
       "number": "#034",
       "image": {
         "src": "./imagens/poke_4.gif",
@@ -409,7 +409,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Clefairy",
       "number": "#035",
       "image": {
         "src": "./imagens/poke_5.gif",
@@ -421,7 +421,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Clefable",
       "number": "#036",
       "image": {
         "src": "./imagens/poke_6.gif",
@@ -433,7 +433,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Vulpix",
       "number": "#037",
       "image": {
         "src": "./imagens/poke_7.gif",
@@ -445,7 +445,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ninetales",
       "number": "#038",
       "image": {
         "src": "./imagens/poke_8.gif",
@@ -457,7 +457,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Jigglypuff",
       "number": "#039",
       "image": {
         "src": "./imagens/poke_9.gif",
@@ -469,7 +469,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Wigglytuff",
       "number": "#040",
       "image": {
         "src": "./imagens/poke_40.gif",
@@ -481,7 +481,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Zubat",
       "number": "#041",
       "image": {
         "src": "./imagens/poke_41.gif",
@@ -493,7 +493,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Golbat",
       "number": "#042",
       "image": {
         "src": "./imagens/poke_42.gif",
@@ -505,7 +505,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Oddish",
       "number": "#043",
       "image": {
         "src": "./imagens/poke_43.gif",
@@ -517,7 +517,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Gloom",
       "number": "#044",
       "image": {
         "src": "./imagens/poke_44.gif",
@@ -529,7 +529,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Vileplume",
       "number": "#045",
       "image": {
         "src": "./imagens/poke_.gif",
@@ -541,7 +541,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Paras",
       "number": "#046",
       "image": {
         "src": "./imagens/poke_45.gif",
@@ -553,7 +553,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Parasect",
       "number": "#047",
       "image": {
         "src": "./imagens/poke_46.gif",
@@ -565,7 +565,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Venonat",
       "number": "#048",
       "image": {
         "src": "./imagens/poke_47.gif",
@@ -577,19 +577,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
-      "number": "#048",
-      "image": {
-        "src": "./imagens/poke_48.gif",
-        "alt": "ivysaur"
-      },
-      "types": ["grama"],
-      "description": "Há uma semente de planta em suas costas desde o dia em que este Pokémon nasce. A semente cresce lentamente."
-    }
-  },
-  {
-    "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Venomoth",
       "number": "#049",
       "image": {
         "src": "./imagens/poke_49.gif",
@@ -601,7 +589,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Diglett",
       "number": "#050",
       "image": {
         "src": "./imagens/poke_50.gif",
@@ -613,7 +601,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dugtrio",
       "number": "#051",
       "image": {
         "src": "./imagens/poke_51.gif",
@@ -625,7 +613,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Meowth",
       "number": "#052",
       "image": {
         "src": "./imagens/poke_52.gif",
@@ -637,7 +625,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Persian",
       "number": "#053",
       "image": {
         "src": "./imagens/poke_53.gif",
@@ -649,7 +637,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Psyduck",
       "number": "#054",
       "image": {
         "src": "./imagens/poke_54.gif",
@@ -661,7 +649,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Golduck",
       "number": "#055",
       "image": {
         "src": "./imagens/poke_55.gif",
@@ -673,7 +661,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mankey",
       "number": "#056",
       "image": {
         "src": "./imagens/poke_56.gif",
@@ -685,7 +673,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Primeape",
       "number": "#057",
       "image": {
         "src": "./imagens/poke_57.gif",
@@ -697,7 +685,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Growlith",
       "number": "#058",
       "image": {
         "src": "./imagens/poke_58.gif",
@@ -709,7 +697,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Arcanine",
       "number": "#059",
       "image": {
         "src": "./imagens/poke_59.gif",
@@ -721,7 +709,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Poliwag",
       "number": "#060",
       "image": {
         "src": "./imagens/poke_60.gif",
@@ -733,7 +721,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Poliwhrirl",
       "number": "#061",
       "image": {
         "src": "./imagens/poke_61.gif",
@@ -745,7 +733,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Poliwrath",
       "number": "#062",
       "image": {
         "src": "./imagens/poke_62.gif",
@@ -757,7 +745,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Abra",
       "number": "#063",
       "image": {
         "src": "./imagens/poke_63.gif",
@@ -769,7 +757,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kadabra",
       "number": "#064",
       "image": {
         "src": "./imagens/poke_64.gif",
@@ -781,7 +769,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Alakazam",
       "number": "#065",
       "image": {
         "src": "./imagens/poke_65.gif",
@@ -793,7 +781,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Machop",
       "number": "#066",
       "image": {
         "src": "./imagens/poke_66.gif",
@@ -805,7 +793,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Machoke",
       "number": "#067",
       "image": {
         "src": "./imagens/poke_67.gif",
@@ -817,7 +805,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Machamp",
       "number": "#068",
       "image": {
         "src": "./imagens/poke_68.gif",
@@ -829,7 +817,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Bellsprout",
       "number": "#069",
       "image": {
         "src": "./imagens/poke_69.gif",
@@ -841,7 +829,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Weepimbell",
       "number": "#070",
       "image": {
         "src": "./imagens/poke_70.gif",
@@ -853,7 +841,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Victreebel",
       "number": "#071",
       "image": {
         "src": "./imagens/poke_71.gif",
@@ -865,7 +853,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tentacol",
       "number": "#072",
       "image": {
         "src": "./imagens/poke_72.gif",
@@ -877,7 +865,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tentacruel",
       "number": "#073",
       "image": {
         "src": "./imagens/poke_73.gif",
@@ -889,7 +877,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Geodude",
       "number": "#074",
       "image": {
         "src": "./imagens/poke_74.gif",
@@ -901,7 +889,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Graveler",
       "number": "#075",
       "image": {
         "src": "./imagens/poke_75.gif",
@@ -913,7 +901,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Golem",
       "number": "#076",
       "image": {
         "src": "./imagens/poke_76.gif",
@@ -925,7 +913,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ponyta",
       "number": "#077",
       "image": {
         "src": "./imagens/poke_77.gif",
@@ -937,7 +925,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Rapidash",
       "number": "#078",
       "image": {
         "src": "./imagens/poke_78.gif",
@@ -949,7 +937,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Slowpoke",
       "number": "#079",
       "image": {
         "src": "./imagens/poke_79.gif",
@@ -961,7 +949,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Slowbro",
       "number": "#080",
       "image": {
         "src": "./imagens/poke_80.gif",
@@ -973,7 +961,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magnemite",
       "number": "#081",
       "image": {
         "src": "./imagens/poke_81.gif",
@@ -985,7 +973,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magneton",
       "number": "#082",
       "image": {
         "src": "./imagens/poke_82.gif",
@@ -997,7 +985,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Farfetch'd",
       "number": "#083",
       "image": {
         "src": "./imagens/poke_83.gif",
@@ -1009,7 +997,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Doduo",
       "number": "#084",
       "image": {
         "src": "./imagens/poke_84.gif",
@@ -1021,7 +1009,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dodrio",
       "number": "#085",
       "image": {
         "src": "./imagens/poke_85.gif",
@@ -1033,7 +1021,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sell",
       "number": "#086",
       "image": {
         "src": "./imagens/poke_86.gif",
@@ -1045,7 +1033,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dewgong",
       "number": "#087",
       "image": {
         "src": "./imagens/poke_87.gif",
@@ -1057,7 +1045,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Grimer",
       "number": "#088",
       "image": {
         "src": "./imagens/poke_88.gif",
@@ -1069,7 +1057,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Muk",
       "number": "#089",
       "image": {
         "src": "./imagens/poke_89.gif",
@@ -1081,7 +1069,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Shellder",
       "number": "#090",
       "image": {
         "src": "./imagens/poke_90.gif",
@@ -1093,7 +1081,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Cloyster",
       "number": "#091",
       "image": {
         "src": "./imagens/poke_91.gif",
@@ -1105,7 +1093,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Gastly",
       "number": "#092",
       "image": {
         "src": "./imagens/poke_92.gif",
@@ -1117,7 +1105,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Haunter",
       "number": "#093",
       "image": {
         "src": "./imagens/poke_93.gif",
@@ -1129,7 +1117,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Gengar",
       "number": "#094",
       "image": {
         "src": "./imagens/poke_94.gif",
@@ -1141,7 +1129,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Onix",
       "number": "#095",
       "image": {
         "src": "./imagens/poke_95.gif",
@@ -1153,7 +1141,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Drowzee",
       "number": "#096",
       "image": {
         "src": "./imagens/poke_96.gif",
@@ -1165,7 +1153,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hypno",
       "number": "#097",
       "image": {
         "src": "./imagens/poke_97.gif",
@@ -1177,7 +1165,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Krabby",
       "number": "#098",
       "image": {
         "src": "./imagens/poke_98.gif",
@@ -1189,7 +1177,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kingler",
       "number": "#099",
       "image": {
         "src": "./imagens/poke_99.gif",
@@ -1201,7 +1189,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Voltorb",
       "number": "#100",
       "image": {
         "src": "./imagens/poke_100.gif",
@@ -1213,7 +1201,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Electrode",
       "number": "#101",
       "image": {
         "src": "./imagens/poke_101.gif",
@@ -1225,7 +1213,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Exeggcute",
       "number": "#102",
       "image": {
         "src": "./imagens/poke_102.gif",
@@ -1237,7 +1225,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Exeggutor",
       "number": "#103",
       "image": {
         "src": "./imagens/poke_103.gif",
@@ -1249,7 +1237,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Cubone",
       "number": "#104",
       "image": {
         "src": "./imagens/poke_104.gif",
@@ -1261,7 +1249,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Marowak",
       "number": "#105",
       "image": {
         "src": "./imagens/poke_105.gif",
@@ -1273,7 +1261,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hitmonlee",
       "number": "#106",
       "image": {
         "src": "./imagens/poke_106.gif",
@@ -1285,7 +1273,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hitmonchan",
       "number": "#107",
       "image": {
         "src": "./imagens/poke_107.gif",
@@ -1297,7 +1285,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Lickitung",
       "number": "#108",
       "image": {
         "src": "./imagens/poke_108.gif",
@@ -1309,7 +1297,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Koffing",
       "number": "#109",
       "image": {
         "src": "./imagens/poke_109.gif",
@@ -1321,7 +1309,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Weezing",
       "number": "#110",
       "image": {
         "src": "./imagens/poke_110.gif",
@@ -1333,7 +1321,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Rhyhorn",
       "number": "#111",
       "image": {
         "src": "./imagens/poke_111.gif",
@@ -1345,7 +1333,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Rhydon",
       "number": "#112",
       "image": {
         "src": "./imagens/poke_112.gif",
@@ -1357,7 +1345,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Chansey",
       "number": "#113",
       "image": {
         "src": "./imagens/poke_113.gif",
@@ -1369,7 +1357,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tangela",
       "number": "#114",
       "image": {
         "src": "./imagens/poke_114.gif",
@@ -1381,7 +1369,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kangaskhan",
       "number": "#115",
       "image": {
         "src": "./imagens/poke_115.gif",
@@ -1393,7 +1381,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Horsea",
       "number": "#116",
       "image": {
         "src": "./imagens/poke_116.gif",
@@ -1405,7 +1393,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Seadra",
       "number": "#117",
       "image": {
         "src": "./imagens/poke_117.gif",
@@ -1417,7 +1405,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Goldeen",
       "number": "#118",
       "image": {
         "src": "./imagens/poke_118.gif",
@@ -1429,7 +1417,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Seaking",
       "number": "#119",
       "image": {
         "src": "./imagens/poke_119.gif",
@@ -1441,7 +1429,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Staryu",
       "number": "#120",
       "image": {
         "src": "./imagens/poke_120.gif",
@@ -1453,7 +1441,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Starmie",
       "number": "#121",
       "image": {
         "src": "./imagens/poke_121.gif",
@@ -1465,7 +1453,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mr. Mime",
       "number": "#122",
       "image": {
         "src": "./imagens/poke_122.gif",
@@ -1477,7 +1465,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Scyther",
       "number": "#123",
       "image": {
         "src": "./imagens/poke_123.gif",
@@ -1489,7 +1477,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Jynx",
       "number": "#124",
       "image": {
         "src": "./imagens/poke_124.gif",
@@ -1501,7 +1489,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Electabuzz",
       "number": "#125",
       "image": {
         "src": "./imagens/poke_125.gif",
@@ -1513,7 +1501,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magmar",
       "number": "#126",
       "image": {
         "src": "./imagens/poke_126.gif",
@@ -1525,7 +1513,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pinsir",
       "number": "#127",
       "image": {
         "src": "./imagens/poke_127.gif",
@@ -1537,7 +1525,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tauros",
       "number": "#128",
       "image": {
         "src": "./imagens/poke_128.gif",
@@ -1549,7 +1537,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magikarp",
       "number": "#129",
       "image": {
         "src": "./imagens/poke_129.gif",
@@ -1561,7 +1549,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Gyarados",
       "number": "#130",
       "image": {
         "src": "./imagens/poke_130.gif",
@@ -1573,7 +1561,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Lapras",
       "number": "#131",
       "image": {
         "src": "./imagens/poke_131.gif",
@@ -1585,7 +1573,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ditto",
       "number": "#132",
       "image": {
         "src": "./imagens/poke_132.gif",
@@ -1597,7 +1585,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Eevee",
       "number": "#133",
       "image": {
         "src": "./imagens/poke_133.gif",
@@ -1609,7 +1597,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Vaporeon",
       "number": "#134",
       "image": {
         "src": "./imagens/poke_134.gif",
@@ -1621,7 +1609,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Jolteon",
       "number": "#135",
       "image": {
         "src": "./imagens/poke_135.gif",
@@ -1633,7 +1621,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Flareon",
       "number": "#136",
       "image": {
         "src": "./imagens/poke_136.gif",
@@ -1645,7 +1633,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Porygon",
       "number": "#137",
       "image": {
         "src": "./imagens/poke_137.gif",
@@ -1657,7 +1645,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Omanyte",
       "number": "#138",
       "image": {
         "src": "./imagens/poke_138.gif",
@@ -1669,7 +1657,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Omastar",
       "number": "#139",
       "image": {
         "src": "./imagens/poke_139.gif",
@@ -1681,7 +1669,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kabuto",
       "number": "#140",
       "image": {
         "src": "./imagens/poke_140.gif",
@@ -1693,7 +1681,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kabutops",
       "number": "#141",
       "image": {
         "src": "./imagens/poke_141.gif",
@@ -1705,7 +1693,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Aerodactyl",
       "number": "#142",
       "image": {
         "src": "./imagens/poke_142.gif",
@@ -1717,7 +1705,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Snorlax",
       "number": "#143",
       "image": {
         "src": "./imagens/poke_143.gif",
@@ -1729,7 +1717,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Articuno",
       "number": "#144",
       "image": {
         "src": "./imagens/poke_144.gif",
@@ -1741,7 +1729,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Zapdos",
       "number": "#145",
       "image": {
         "src": "./imagens/poke_145.gif",
@@ -1753,7 +1741,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Moltres",
       "number": "#146",
       "image": {
         "src": "./imagens/poke_146.gif",
@@ -1765,7 +1753,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dratini",
       "number": "#147",
       "image": {
         "src": "./imagens/poke_147.gif",
@@ -1777,7 +1765,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dragonair",
       "number": "#148",
       "image": {
         "src": "./imagens/poke_148.gif",
@@ -1789,7 +1777,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dragonite",
       "number": "#149",
       "image": {
         "src": "./imagens/poke_149.gif",
@@ -1801,7 +1789,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mewtwo",
       "number": "#150",
       "image": {
         "src": "./imagens/poke_150.gif",
@@ -1813,7 +1801,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mew",
       "number": "#151",
       "image": {
         "src": "./imagens/poke_151.gif",
@@ -1825,7 +1813,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Chicorita",
       "number": "#152",
       "image": {
         "src": "./imagens/poke_152.gif",
@@ -1837,7 +1825,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Bayleef",
       "number": "#153",
       "image": {
         "src": "./imagens/poke_153.gif",
@@ -1849,7 +1837,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Meganium",
       "number": "#154",
       "image": {
         "src": "./imagens/poke_154.gif",
@@ -1861,7 +1849,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Cyndaquil",
       "number": "#155",
       "image": {
         "src": "./imagens/poke_155.gif",
@@ -1873,7 +1861,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Quilava",
       "number": "#156",
       "image": {
         "src": "./imagens/poke_156.gif",
@@ -1885,7 +1873,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Typhlosion",
       "number": "#157",
       "image": {
         "src": "./imagens/poke_157.gif",
@@ -1897,7 +1885,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Totodile",
       "number": "#158",
       "image": {
         "src": "./imagens/poke_158.gif",
@@ -1909,7 +1897,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Croconaw",
       "number": "#159",
       "image": {
         "src": "./imagens/poke_159.gif",
@@ -1921,7 +1909,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Feraligator",
       "number": "#160",
       "image": {
         "src": "./imagens/poke_160.gif",
@@ -1933,7 +1921,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sentret",
       "number": "#161",
       "image": {
         "src": "./imagens/poke_161.gif",
@@ -1945,7 +1933,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Furret",
       "number": "#162",
       "image": {
         "src": "./imagens/poke_162.gif",
@@ -1957,7 +1945,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hoothoot",
       "number": "#163",
       "image": {
         "src": "./imagens/poke_163.gif",
@@ -1969,7 +1957,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Noctowl",
       "number": "#164",
       "image": {
         "src": "./imagens/poke_164.gif",
@@ -1981,7 +1969,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ledyba",
       "number": "#165",
       "image": {
         "src": "./imagens/poke_165.gif",
@@ -1993,7 +1981,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ledian",
       "number": "#166",
       "image": {
         "src": "./imagens/poke_166.gif",
@@ -2005,7 +1993,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Spinarak",
       "number": "#167",
       "image": {
         "src": "./imagens/poke_167.gif",
@@ -2017,7 +2005,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ariados",
       "number": "#168",
       "image": {
         "src": "./imagens/poke_168.gif",
@@ -2029,7 +2017,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Crobat",
       "number": "#169",
       "image": {
         "src": "./imagens/poke_169.gif",
@@ -2041,7 +2029,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Chinchou",
       "number": "#170",
       "image": {
         "src": "./imagens/poke_170.gif",
@@ -2053,7 +2041,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Lanturn",
       "number": "#171",
       "image": {
         "src": "./imagens/poke_171.gif",
@@ -2065,7 +2053,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pichu",
       "number": "#172",
       "image": {
         "src": "./imagens/poke_172.gif",
@@ -2077,7 +2065,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Cleffa",
       "number": "#173",
       "image": {
         "src": "./imagens/poke_173.gif",
@@ -2089,7 +2077,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Igglybuff",
       "number": "#174",
       "image": {
         "src": "./imagens/poke_174.gif",
@@ -2101,7 +2089,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Togepi",
       "number": "#175",
       "image": {
         "src": "./imagens/poke_175.gif",
@@ -2113,7 +2101,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Togetic",
       "number": "#176",
       "image": {
         "src": "./imagens/poke_176.gif",
@@ -2125,7 +2113,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Natu",
       "number": "#177",
       "image": {
         "src": "./imagens/poke_177.gif",
@@ -2137,7 +2125,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Xatu",
       "number": "#178",
       "image": {
         "src": "./imagens/poke_178.gif",
@@ -2149,7 +2137,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mareep",
       "number": "#179",
       "image": {
         "src": "./imagens/poke_179.gif",
@@ -2161,7 +2149,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Flaaffy",
       "number": "#180",
       "image": {
         "src": "./imagens/poke_180.gif",
@@ -2173,7 +2161,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ampharos",
       "number": "#181",
       "image": {
         "src": "./imagens/poke_181.gif",
@@ -2185,7 +2173,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Bellossom",
       "number": "#182",
       "image": {
         "src": "./imagens/poke_182.gif",
@@ -2197,7 +2185,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Marill",
       "number": "#183",
       "image": {
         "src": "./imagens/poke_183.gif",
@@ -2209,7 +2197,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Azumarill",
       "number": "#184",
       "image": {
         "src": "./imagens/poke_184.gif",
@@ -2221,7 +2209,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sudowoodo",
       "number": "#185",
       "image": {
         "src": "./imagens/poke_185.gif",
@@ -2233,7 +2221,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Politoed",
       "number": "#186",
       "image": {
         "src": "./imagens/poke_186.gif",
@@ -2245,7 +2233,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hoppip",
       "number": "#187",
       "image": {
         "src": "./imagens/poke_187.gif",
@@ -2257,7 +2245,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Skiploom",
       "number": "#188",
       "image": {
         "src": "./imagens/poke_188.gif",
@@ -2269,7 +2257,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Jumpluff",
       "number": "#189",
       "image": {
         "src": "./imagens/poke_189.gif",
@@ -2281,7 +2269,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Aipom",
       "number": "#190",
       "image": {
         "src": "./imagens/poke_190.gif",
@@ -2293,7 +2281,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sunkern",
       "number": "#191",
       "image": {
         "src": "./imagens/poke_191.gif",
@@ -2305,7 +2293,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sunflora",
       "number": "#192",
       "image": {
         "src": "./imagens/poke_192.gif",
@@ -2317,7 +2305,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Yanma",
       "number": "#193",
       "image": {
         "src": "./imagens/poke_193.gif",
@@ -2329,7 +2317,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Wooper",
       "number": "#194",
       "image": {
         "src": "./imagens/poke_194.gif",
@@ -2341,7 +2329,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Quagsire",
       "number": "#195",
       "image": {
         "src": "./imagens/poke_195.gif",
@@ -2353,7 +2341,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Espeon",
       "number": "#196",
       "image": {
         "src": "./imagens/poke_196.gif",
@@ -2365,7 +2353,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Umbreon",
       "number": "#197",
       "image": {
         "src": "./imagens/poke_197.gif",
@@ -2377,7 +2365,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Murkrow",
       "number": "#198",
       "image": {
         "src": "./imagens/poke_198.gif",
@@ -2389,7 +2377,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Slowking",
       "number": "#199",
       "image": {
         "src": "./imagens/poke_199.gif",
@@ -2401,7 +2389,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Misdreavus",
       "number": "#200",
       "image": {
         "src": "./imagens/poke_200.gif",
@@ -2413,7 +2401,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Unown",
       "number": "#201",
       "image": {
         "src": "./imagens/poke_201.gif",
@@ -2425,7 +2413,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Wobbuffet",
       "number": "#202",
       "image": {
         "src": "./imagens/poke_202.gif",
@@ -2437,7 +2425,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Girafarig",
       "number": "#203",
       "image": {
         "src": "./imagens/poke_203.gif",
@@ -2449,7 +2437,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pineco",
       "number": "#204",
       "image": {
         "src": "./imagens/poke_204.gif",
@@ -2461,7 +2449,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Forretress",
       "number": "#205",
       "image": {
         "src": "./imagens/poke_205.gif",
@@ -2473,7 +2461,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Dunsparce",
       "number": "#206",
       "image": {
         "src": "./imagens/poke_206.gif",
@@ -2485,7 +2473,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Gligar",
       "number": "#207",
       "image": {
         "src": "./imagens/poke_207.gif",
@@ -2497,7 +2485,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Steelix",
       "number": "#208",
       "image": {
         "src": "./imagens/poke_208.gif",
@@ -2509,7 +2497,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Snubbull",
       "number": "#209",
       "image": {
         "src": "./imagens/poke_209.gif",
@@ -2521,7 +2509,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Granbull",
       "number": "#210",
       "image": {
         "src": "./imagens/poke_210.gif",
@@ -2533,7 +2521,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Qwilfish",
       "number": "#211",
       "image": {
         "src": "./imagens/poke_211.gif",
@@ -2545,7 +2533,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Scizor",
       "number": "#212",
       "image": {
         "src": "./imagens/poke_212.gif",
@@ -2557,7 +2545,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Shuckle",
       "number": "#213",
       "image": {
         "src": "./imagens/poke_213.gif",
@@ -2569,7 +2557,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Heracross",
       "number": "#214",
       "image": {
         "src": "./imagens/poke_214.gif",
@@ -2581,7 +2569,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Sneasel",
       "number": "#215",
       "image": {
         "src": "./imagens/poke_215.gif",
@@ -2593,7 +2581,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Teddiursa",
       "number": "#216",
       "image": {
         "src": "./imagens/poke_216.gif",
@@ -2605,7 +2593,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ursaring",
       "number": "#217",
       "image": {
         "src": "./imagens/poke_217.gif",
@@ -2617,7 +2605,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Slugma",
       "number": "#218",
       "image": {
         "src": "./imagens/poke_218.gif",
@@ -2629,7 +2617,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magcargo",
       "number": "#219",
       "image": {
         "src": "./imagens/poke_219.gif",
@@ -2641,7 +2629,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Swinub",
       "number": "#220",
       "image": {
         "src": "./imagens/poke_220.gif",
@@ -2653,7 +2641,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Piloswine",
       "number": "#221",
       "image": {
         "src": "./imagens/poke_221.gif",
@@ -2665,7 +2653,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Corsola",
       "number": "#222",
       "image": {
         "src": "./imagens/poke_222.gif",
@@ -2677,7 +2665,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Remoraid",
       "number": "#223",
       "image": {
         "src": "./imagens/poke_223.gif",
@@ -2689,7 +2677,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Octillery",
       "number": "#224",
       "image": {
         "src": "./imagens/poke_224.gif",
@@ -2701,7 +2689,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Delibird",
       "number": "#225",
       "image": {
         "src": "./imagens/poke_225.gif",
@@ -2713,7 +2701,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Mantine",
       "number": "#226",
       "image": {
         "src": "./imagens/poke_226.gif",
@@ -2725,7 +2713,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Skarmory",
       "number": "#227",
       "image": {
         "src": "./imagens/poke_227.gif",
@@ -2737,7 +2725,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Houndour",
       "number": "#228",
       "image": {
         "src": "./imagens/poke_228.gif",
@@ -2749,7 +2737,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Houndoom",
       "number": "#229",
       "image": {
         "src": "./imagens/poke_229.gif",
@@ -2761,7 +2749,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Kindra",
       "number": "#230",
       "image": {
         "src": "./imagens/poke_230.gif",
@@ -2773,7 +2761,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Phanpy",
       "number": "#231",
       "image": {
         "src": "./imagens/poke_231.gif",
@@ -2785,7 +2773,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Donphan",
       "number": "#232",
       "image": {
         "src": "./imagens/poke_232.gif",
@@ -2797,7 +2785,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Porygon2",
       "number": "#233",
       "image": {
         "src": "./imagens/poke_233.gif",
@@ -2809,7 +2797,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Stantler",
       "number": "#234",
       "image": {
         "src": "./imagens/poke_234.gif",
@@ -2821,7 +2809,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Smeargle",
       "number": "#235",
       "image": {
         "src": "./imagens/poke_235.gif",
@@ -2833,7 +2821,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tyrogue",
       "number": "#236",
       "image": {
         "src": "./imagens/poke_236.gif",
@@ -2845,7 +2833,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Hitmontop",
       "number": "#237",
       "image": {
         "src": "./imagens/poke_237.gif",
@@ -2857,7 +2845,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Smoochum",
       "number": "#238",
       "image": {
         "src": "./imagens/poke_238.gif",
@@ -2869,7 +2857,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Elekid",
       "number": "#239",
       "image": {
         "src": "./imagens/poke_239.gif",
@@ -2881,7 +2869,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Magby",
       "number": "#240",
       "image": {
         "src": "./imagens/poke_240.gif",
@@ -2893,7 +2881,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Miltank",
       "number": "#241",
       "image": {
         "src": "./imagens/poke_241.gif",
@@ -2905,7 +2893,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Blissey",
       "number": "#242",
       "image": {
         "src": "./imagens/poke_242.gif",
@@ -2917,7 +2905,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Raikou",
       "number": "#243",
       "image": {
         "src": "./imagens/poke_243.gif",
@@ -2929,7 +2917,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Entei",
       "number": "#244",
       "image": {
         "src": "./imagens/poke_244.gif",
@@ -2941,7 +2929,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Suicune",
       "number": "#245",
       "image": {
         "src": "./imagens/poke_245.gif",
@@ -2953,7 +2941,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Larvitar",
       "number": "#246",
       "image": {
         "src": "./imagens/poke_246.gif",
@@ -2965,7 +2953,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Pupitar",
       "number": "#247",
       "image": {
         "src": "./imagens/poke_247.gif",
@@ -2977,7 +2965,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Tyranitar",
       "number": "#248",
       "image": {
         "src": "./imagens/poke_248.gif",
@@ -2989,7 +2977,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Lugia",
       "number": "#249",
       "image": {
         "src": "./imagens/poke_249.gif",
@@ -3001,7 +2989,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Ho-Oh",
       "number": "#250",
       "image": {
         "src": "./imagens/poke_250.gif",
@@ -3013,7 +3001,7 @@
   },
   {
     "pokemon_card": {
-      "name": "Ivysaur",
+      "name": "Celebi",
       "number": "#251",
       "image": {
         "src": "./imagens/poke_251.gif",
